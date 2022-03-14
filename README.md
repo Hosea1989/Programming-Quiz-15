@@ -1,5 +1,6 @@
 # Programming-Quiz-15
 Course: Computer Science 140 - C++ 2
+
 Name: Basic Shape Class
 
 Define a pure abstract base class called BasicShape. The BasicShape class should have the following members:
